@@ -3,7 +3,7 @@
 Welcome to the Anti-Cancer-Drug-Activity Prediction Challenge! In this competition, hosted on Kaggle, participants are tasked with predicting the activity of anti-cancer drugs based on various molecular features. The goal is to develop machine learning models that can accurately predict the effectiveness of different compounds in inhibiting cancer cell growth.
 
 ## Dataset
-The dataset provided for this competition includes the following files:
+The dataset provided for this competition includes the following files(as it is written in sdf formate):
 
 * train.csv: This file contains the training data, which includes molecular features of anti-cancer drugs along with their corresponding activity labels.
 * test.csv: This file contains the test data, which includes molecular features for which predictions need to be made.
