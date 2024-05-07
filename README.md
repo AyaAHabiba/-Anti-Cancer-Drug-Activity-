@@ -23,13 +23,14 @@ Transforming molecular features using domain-specific knowledge or techniques su
 Handling categorical variables or text data through encoding techniques or natural language processing (NLP) methods.
 Model Selection(train_test_split)
 For this predictive modeling task, participants may experiment with various machine learning algorithms and modeling techniques, including but not limited to:
-
+```
 Neural Network with different layers in each trail
-* GNN
-* GGNN
-* RGAT
-* GNN-FiLM
-* RGCN
+GNN
+GGNN
+RGAT
+GNN-FiLM
+RGCN
+```
 Participants are encouraged to evaluate the performance of multiple models using appropriate evaluation metrics such as auc.
 
 ## Model Evaluation
